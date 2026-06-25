@@ -1,10 +1,10 @@
 # Day 01 - HTML Fundamentals
 
-# Overview
+## Overview
 
 The first day of training focused on understanding the fundamentals of HTML (HyperText Markup Language), the standard markup language used for creating and structuring web pages. Various HTML elements and tags were explored to understand how content is organized, displayed, and interpreted by web browsers.
 
-# Topics Covered
+## Topics Covered
 
 ### 1. HTML Boilerplate
 
