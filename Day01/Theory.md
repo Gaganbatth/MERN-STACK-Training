@@ -1,116 +1,142 @@
-The first day of training focused on understanding the fundamentals of HTML (HyperText Markup Language), which is the standard markup language used to create and structure web pages. Various HTML elements and tags were explored to understand how content is organized and displayed in a web browser.
+# Day 01 - HTML Fundamentals
 
-Topics Covered
-1. HTML Boilerplate
+## Overview
 
-Learned the basic structure of an HTML document, including:
+The first day of training focused on understanding the fundamentals of HTML (HyperText Markup Language), the standard markup language used for creating and structuring web pages. Various HTML elements and tags were explored to understand how content is organized, displayed, and interpreted by web browsers.
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-<body>
+## Topics Covered
 
-The boilerplate serves as the foundation of every HTML webpage.
+### 1. HTML Boilerplate
 
-2. Headings
+Studied the basic structure of an HTML document, which serves as the foundation of every web page.
 
-Studied heading tags ranging from <h1> to <h6> and their importance in organizing webpage content hierarchically.
+**Key Elements:**
 
-3. Semantic and Non-Semantic Tags
-Semantic Tags
+* `<!DOCTYPE html>`
+* `<html>`
+* `<head>`
+* `<title>`
+* `<body>`
 
-Semantic tags clearly describe their meaning and purpose.
+The HTML boilerplate provides the essential framework required for browsers to correctly render a webpage.
 
-Examples:
+### 2. Headings
 
-<header>
-<nav>
-<section>
-<article>
-<footer>
-Non-Semantic Tags
+Explored heading elements ranging from `<h1>` to `<h6>`, which are used to establish a hierarchical structure within web content and improve readability.
 
-Non-semantic tags do not provide information about the content they contain.
+### 3. Semantic and Non-Semantic Tags
 
-Examples:
+#### Semantic Tags
 
-<div>
-<span>
-4. Inline and Block Elements
-Block Elements
+Semantic elements provide meaningful information about the content they contain, making web pages more accessible and easier to understand.
 
-Block-level elements occupy the full available width and begin on a new line.
+**Examples:**
 
-Examples:
+* `<header>`
+* `<nav>`
+* `<section>`
+* `<article>`
+* `<footer>`
 
-<div>
-<p>
-<h1>
-<section>
-Inline Elements
+#### Non-Semantic Tags
 
-Inline elements occupy only the required space and do not start on a new line.
+Non-semantic elements do not convey any specific meaning about their content and are primarily used for styling and layout purposes.
 
-Examples:
+**Examples:**
 
-<span>
-<a>
-<strong>
-<img>
-5. Subscript and Superscript
+* `<div>`
+* `<span>`
 
-Learned how to display text below or above the normal text line.
+### 4. Inline and Block Elements
 
-Subscript: <sub>
-Superscript: <sup>
+#### Block-Level Elements
 
-Examples:
+Block-level elements occupy the full available width of the page and always begin on a new line.
 
-H₂O
-x²
-6. Multimedia Elements
-Image Tag
+**Examples:**
 
-Used the <img> tag to display images on a webpage.
+* `<div>`
+* `<p>`
+* `<h1>`
+* `<section>`
 
-Audio Tag
+#### Inline Elements
 
-Used the <audio> tag to embed audio content.
+Inline elements occupy only the space required by their content and do not start on a new line.
 
-Video Tag
+**Examples:**
 
-Used the <video> tag to display video content within a webpage.
+* `<span>`
+* `<a>`
+* `<strong>`
+* `<img>`
 
-7. IFrame and Favicon
-IFrame
+### 5. Subscript and Superscript
 
-Used the <iframe> tag to embed external webpages, maps, or videos within a webpage.
+Learned how to display text below or above the normal text baseline using specialized HTML elements.
 
-Favicon
+* Subscript: `<sub>`
+* Superscript: `<sup>`
 
-Learned how to add a favicon to a webpage using the <link> element inside the head section.
+**Examples:**
 
-8. HTML Lists
-Ordered List (<ol>)
+* H₂O
+* x²
+These elements are commonly used for scientific, mathematical, and chemical notations.
 
-Displays items in a numbered format.
+### 6. Multimedia Elements
 
-Unordered List (<ul>)
+#### Image Tag
 
-Displays items using bullets.
+The `<img>` element is used to display images within a webpage.
 
-Description List (<dl>)
+#### Audio Tag
 
-Used for displaying terms and their descriptions.
+The `<audio>` element allows the integration of audio files and playback controls.
 
-9. HTML Tables
+#### Video Tag
 
-Learned how to organize data in rows and columns using:
+The `<video>` element is used to embed and play video content directly within a webpage.
 
-<table>
-<tr>
-<th>
-<td>
+### 7. IFrame and Favicon
 
-Tables are useful for presenting structured information in a readable format.
+#### IFrame
+
+The `<iframe>` element is used to embed external content such as websites, maps, and videos within a webpage.
+
+#### Favicon
+
+A favicon is a small icon displayed in the browser tab. It is added using the `<link>` element within the `<head>` section of an HTML document.
+
+### 8. HTML Lists
+
+#### Ordered List (`<ol>`)
+
+Displays items in a sequentially numbered format.
+
+#### Unordered List (`<ul>`)
+
+Displays items using bullet points.
+
+#### Description List (`<dl>`)
+
+Used for presenting terms along with their corresponding descriptions.
+
+Lists help organize information in a structured and user-friendly manner.
+
+### 9. HTML Tables
+
+Studied the creation of tables for organizing and presenting structured data.
+
+**Key Elements:**
+
+* `<table>`
+* `<tr>`
+* `<th>`
+* `<td>`
+
+Tables provide an effective way to display information in rows and columns, improving data readability and organization.
+
+## Conclusion
+
+The session provided a comprehensive introduction to HTML and its fundamental components. Concepts such as document structure, semantic markup, content organization, multimedia integration, lists, and tables were explored through both theoretical discussion and practical implementation. These concepts form the foundation for modern web development and will serve as the basis for future topics in the MERN Stack training program.
