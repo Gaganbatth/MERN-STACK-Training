@@ -1,3 +1,17 @@
+Day 02 - HTML Forms
+Overview
+
+The second day of the training focused on HTML Forms, one of the most fundamental components of web development. HTML forms provide a structured mechanism for collecting user input and facilitate interaction between users and web applications. The session covered the creation of forms using various input controls, along with their attributes and practical applications.
+
+Topics Covered
+1. Introduction to HTML Forms
+
+Studied the purpose of HTML forms and their role in collecting user information. The <form> element acts as a container for various input controls that enable users to submit data to a server.
+
+2. Form Structure
+
+Learned the basic structure of an HTML form, including the use of:
+
 <form>
 <label>
 <input>
