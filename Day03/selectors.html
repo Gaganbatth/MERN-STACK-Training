@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CSS Selectors</title>
+
+    <style>
+      * {
+        font-family: Arial;
+      }
+
+      h1 {
+        color: red;
+      }
+
+      .demo {
+        color: blue;
+      }
+
+      #heading {
+        background: yellow;
+      }
+
+      div p {
+        color: green;
+      }
+
+      section > p {
+        color: purple;
+      }
+
+      h2 + p {
+        color: orange;
+      }
+
+      h3 ~ p {
+        color: brown;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Element Selector</h1>
+
+    <p class="demo">Class Selector</p>
+
+    <h2 id="heading">ID Selector</h2>
+
+    <div>
+      <p>Descendant Selector</p>
+    </div>
+
+    <section>
+      <p>Child Selector</p>
+    </section>
+
+    <h2>Adjacent Sibling</h2>
+    <p>This paragraph is affected.</p>
+
+    <h3>General Sibling</h3>
+
+    <p>Paragraph One</p>
+    <p>Paragraph Two</p>
+  </body>
+</html>

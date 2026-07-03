@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.box{
+    border:2px solid black;
+    background-color:lightblue;
+    padding:10px;
+    margin:10px;
+}
+
+.block{
+    display:block;
+    background-color:lightgreen;
+}
+
+.inline{
+    display:inline;
+    background-color:lightcoral;
+}
+
+.inline-block{
+    display:inline-block;
+    width:150px;
+    height:80px;
+    background-color:gold;
+}
+
+.none{
+    display:none;
+}
+
+.flex-container{
+    display:flex;
+    border:2px solid blue;
+    margin-top:20px;
+}
+
+.flex-item{
+    background-color:skyblue;
+    border:1px solid black;
+    padding:20px;
+    margin:5px;
+}
+
+</style>
+</head>
+
+<body>
+
+<h2>1. display: block</h2>
+
+<div class="box block">Block 1</div>
+<div class="box block">Block 2</div>
+
+
+<h2>2. display: inline</h2>
+
+<span class="box inline">Inline 1</span>
+<span class="box inline">Inline 2</span>
+<span class="box inline">Inline 3</span>
+
+<h2>3. display: inline-block</h2>
+
+<div class="box inline-block">Inline Block 1</div>
+<div class="box inline-block">Inline Block 2</div>
+
+
+<h2>4. display: none</h2>
+
+<div class="box">Visible Box</div>
+<div class="box none">Hidden Box</div>
+<div class="box">Visible Box</div>
+
+
+<h2>5. display: flex</h2>
+
+<div class="flex-container">
+    <div class="flex-item">Item 1</div>
+    <div class="flex-item">Item 2</div>
+    <div class="flex-item">Item 3</div>
+</div>
+
+</body>
+</html>
