@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>CSS Animations</title>
+
+    <style>
+      body {
+        font-family: Arial;
+        text-align: center;
+      }
+
+      .box {
+        width: 120px;
+
+        height: 120px;
+
+        background: tomato;
+
+        margin: 80px auto;
+
+        animation: moveBox 4s infinite alternate;
+      }
+
+      @keyframes moveBox {
+        0% {
+          transform: translateX(0);
+
+          background: tomato;
+        }
+
+        25% {
+          transform: translateX(150px);
+
+          background: orange;
+        }
+
+        50% {
+          transform: translateY(100px);
+
+          background: gold;
+        }
+
+        75% {
+          transform: translateX(-150px);
+
+          background: green;
+        }
+
+        100% {
+          transform: translateY(0);
+
+          background: royalblue;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>CSS Animation Demonstration</h1>
+
+    <div class="box"></div>
+  </body>
+</html>
