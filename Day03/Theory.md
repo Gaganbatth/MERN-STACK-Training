@@ -2,95 +2,102 @@
 
 ## Overview
 
-The third day of the training introduced Cascading Style Sheets (CSS), the styling language used to control the presentation and appearance of web pages. The session focused on understanding how CSS separates content from design, enabling developers to create visually appealing, consistent, and responsive user interfaces. Various methods of applying CSS, selector types, typography properties, the CSS Box Model, and display properties were explored through practical examples.
+The third day of the MERN Stack training focused on Cascading Style Sheets (CSS), the stylesheet language used to control the presentation and appearance of web pages. CSS enables developers to separate content from design, making web pages visually appealing, responsive, and easier to maintain. The session introduced the fundamentals of CSS, different methods of applying styles, various selector types, typography properties, the CSS Box Model, and display properties.
 
 ## Topics Covered
 
 ### 1. Introduction to CSS
 
-CSS (Cascading Style Sheets) is a stylesheet language used to define the visual presentation of HTML documents. It enables developers to control colors, typography, spacing, layouts, and overall webpage aesthetics while maintaining a clear separation between structure and design.
+Studied the role of CSS in web development and its importance in enhancing the visual appearance of HTML documents. CSS is used to define the layout, colors, fonts, spacing, and overall styling of web pages while maintaining a clear separation between structure and presentation.
 
 ### 2. Types of CSS
 
-Studied the three different methods of applying CSS to HTML documents.
+Learned the three different methods of applying CSS to HTML documents.
 
-#### Inline CSS
-- Applied directly to an HTML element using the `style` attribute.
-- Suitable for applying styles to individual elements.
+**Types Covered:**
 
-#### Internal CSS
-- Written within the `<style>` element inside the `<head>` section.
-- Used when styling a single webpage.
+* Inline CSS
+* Internal CSS
+* External CSS
 
-#### External CSS
-- Written in a separate `.css` file and linked using the `<link>` element.
-- Promotes code reusability, maintainability, and consistency across multiple webpages.
+Each method serves a different purpose depending on the scope and maintainability of the project.
 
 ### 3. CSS Selectors
 
-Explored various selector types used to target HTML elements.
+Explored different selector types used to target HTML elements for styling.
 
-The selectors covered include:
+**Selectors Covered:**
 
-- Universal Selector (`*`)
-- Element Selector
-- Class Selector (`.class`)
-- ID Selector (`#id`)
-- Group Selector
-- Descendant Selector
-- Child Selector
-- Adjacent Sibling Selector
-- General Sibling Selector
+* Universal Selector (`*`)
+* Element Selector
+* Class Selector (`.class`)
+* ID Selector (`#id`)
+* Group Selector
+* Descendant Selector
+* Child Selector
+* Adjacent Sibling Selector
+* General Sibling Selector
 
 Selectors provide precise control over which HTML elements receive specific styles.
 
 ### 4. Typography
 
-Studied CSS properties used for formatting and enhancing text presentation.
+Studied CSS properties used to format and improve the appearance of text.
 
-Key properties include:
+**Properties Covered:**
 
-- `color`
-- `font-family`
-- `font-size`
-- `font-style`
-- `font-weight`
-- `text-align`
-- `text-decoration`
-- `text-transform`
-- `letter-spacing`
-- `word-spacing`
-- `line-height`
+* `color`
+* `font-family`
+* `font-size`
+* `font-style`
+* `font-weight`
+* `text-align`
+* `text-decoration`
+* `text-transform`
+* `letter-spacing`
+* `word-spacing`
+* `line-height`
 
-These properties contribute significantly to readability and visual consistency.
+Typography properties help improve readability and enhance the overall user experience.
 
 ### 5. CSS Box Model
 
-Learned the concept of the CSS Box Model, which defines the layout of every HTML element.
+Learned the concept of the CSS Box Model, which defines how every HTML element is represented on a webpage.
 
-The box model consists of:
+**Components of the Box Model:**
 
-- Content
-- Padding
-- Border
-- Margin
+* Content
+* Padding
+* Border
+* Margin
 
-Understanding the box model is essential for controlling spacing and element dimensions accurately.
+Understanding the Box Model is essential for controlling element dimensions and spacing.
 
-### 6. Display Properties
+### 6. Display Property
 
-Explored the CSS `display` property and its impact on webpage layout.
+Studied the CSS `display` property and its role in controlling the layout behavior of HTML elements.
 
-The display values discussed include:
+**Display Values Covered:**
 
-- `block`
-- `inline`
-- `inline-block`
-- `none`
+* `block`
+* `inline`
+* `inline-block`
+* `none`
 
-The behavior of each display type was demonstrated to understand how elements are positioned and rendered within the document flow.
+Each display type affects how an element occupies space and interacts with other elements on the webpage.
 
+## Practical Implementation
+
+To reinforce the concepts covered during the session, separate implementation files were created for each major topic.
+
+| Implementation | File |
+|----------------|------|
+| Types of CSS | `css-types.html` |
+| CSS Selectors | `selectors.html` |
+| Typography | `typography.html` |
+| CSS Box Model | `box-model.html` |
+| Display Property | `display-property.html` |
 
 ## Conclusion
 
-The session established the foundation of CSS by introducing its core concepts and styling techniques. Through both theoretical discussions and practical implementation, a clear understanding was developed regarding how CSS enhances the presentation, usability, and maintainability of web applications. These concepts will serve as the basis for more advanced topics such as Flexbox, Grid, Responsive Web Design, and modern front-end development.
+The session provided a comprehensive introduction to CSS and its role in modern web development. Concepts such as applying styles, selecting HTML elements, formatting text, understanding the CSS Box Model, and controlling element display were explored through both theoretical discussion and practical implementation. These concepts form the foundation for creating visually appealing, responsive, and well-structured web interfaces.
