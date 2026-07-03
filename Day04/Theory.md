@@ -86,7 +86,7 @@ For example, a horizontal layout on desktop screens can be converted into a vert
 
 To reinforce the concepts covered during the session, two practical implementations were developed using Flexbox and Media Queries.
 
-| Implementation | Description | File |
+| Implementation | File |
 |----------------|-------------|------|
 | Flexbox Item Properties Demonstration | `flexbox-properties.html` |
 | Responsive Flexbox Layout Template | `flexbox-layout.html` |
