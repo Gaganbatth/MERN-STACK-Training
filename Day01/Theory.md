@@ -1,141 +1,151 @@
 # Day 01 - HTML Fundamentals
 
 ## Overview
-The first day of training focused on understanding the fundamentals of HTML (HyperText Markup Language), the standard markup language used for creating and structuring web pages. Various HTML elements and tags were explored to understand how content is organized, displayed, and interpreted by web browsers.
+
+The first day of the MERN Stack training focused on understanding the fundamentals of HTML (HyperText Markup Language), the standard markup language used to structure and organize content on the World Wide Web. The session introduced the basic syntax of HTML, different categories of elements, multimedia integration, and methods for organizing information using lists and tables.
+
+The concepts covered during the session establish the foundation for front-end web development and serve as the basis for styling with CSS and adding interactivity using JavaScript.
+
+---
 
 ## Topics Covered
 
 ### 1. HTML Boilerplate
 
-Studied the basic structure of an HTML document, which serves as the foundation of every web page.
+Studied the standard structure of an HTML document, including the purpose of the document declaration and the major sections of an HTML page.
 
-**Key Elements:**
+**Key Elements**
 
-* `<!DOCTYPE html>`
-* `<html>`
-* `<head>`
-* `<title>`
-* `<body>`
+- `<!DOCTYPE html>`
+- `<html>`
+- `<head>`
+- `<title>`
+- `<body>`
 
-The HTML boilerplate provides the essential framework required for browsers to correctly render a webpage.
+---
 
-### 2. Headings
+### 2. Heading Elements
 
-Explored heading elements ranging from `<h1>` to `<h6>`, which are used to establish a hierarchical structure within web content and improve readability.
+Learned the usage of heading tags (`<h1>` to `<h6>`) for creating a logical content hierarchy and improving document readability.
+
+---
 
 ### 3. Semantic and Non-Semantic Tags
 
-#### Semantic Tags
+Studied the difference between semantic and non-semantic HTML elements.
 
-Semantic elements provide meaningful information about the content they contain, making web pages more accessible and easier to understand.
+**Semantic Elements**
 
-**Examples:**
+- `<header>`
+- `<nav>`
+- `<section>`
+- `<article>`
+- `<footer>`
 
-* `<header>`
-* `<nav>`
-* `<section>`
-* `<article>`
-* `<footer>`
+**Non-Semantic Elements**
 
-#### Non-Semantic Tags
+- `<div>`
+- `<span>`
 
-Non-semantic elements do not convey any specific meaning about their content and are primarily used for styling and layout purposes.
+---
 
-**Examples:**
+### 4. Inline and Block-Level Elements
 
-* `<div>`
-* `<span>`
+Explored the behavior of block-level and inline elements within an HTML document.
 
-### 4. Inline and Block Elements
+**Block-Level Elements**
 
-#### Block-Level Elements
+- `<div>`
+- `<p>`
+- `<h1>`
+- `<section>`
 
-Block-level elements occupy the full available width of the page and always begin on a new line.
+**Inline Elements**
 
-**Examples:**
+- `<span>`
+- `<a>`
+- `<strong>`
+- `<img>`
 
-* `<div>`
-* `<p>`
-* `<h1>`
-* `<section>`
-
-#### Inline Elements
-
-Inline elements occupy only the space required by their content and do not start on a new line.
-
-**Examples:**
-
-* `<span>`
-* `<a>`
-* `<strong>`
-* `<img>`
+---
 
 ### 5. Subscript and Superscript
 
-Learned how to display text below or above the normal text baseline using specialized HTML elements.
+Learned the implementation of subscript and superscript text using:
 
-* Subscript: `<sub>`
-* Superscript: `<sup>`
+- `<sub>`
+- `<sup>`
 
-**Examples:**
+Common applications include mathematical expressions and chemical formulas.
 
-* H₂O
-* x²
-These elements are commonly used for scientific, mathematical, and chemical notations.
+---
 
 ### 6. Multimedia Elements
 
-#### Image Tag
+Studied HTML elements used to embed multimedia content within web pages.
 
-The `<img>` element is used to display images within a webpage.
+- `<img>`
+- `<audio>`
+- `<video>`
 
-#### Audio Tag
-
-The `<audio>` element allows the integration of audio files and playback controls.
-
-#### Video Tag
-
-The `<video>` element is used to embed and play video content directly within a webpage.
+---
 
 ### 7. IFrame and Favicon
 
-#### IFrame
+Learned how to embed external webpages using the `<iframe>` element and how to add a favicon using the `<link>` tag inside the document head.
 
-The `<iframe>` element is used to embed external content such as websites, maps, and videos within a webpage.
-
-#### Favicon
-
-A favicon is a small icon displayed in the browser tab. It is added using the `<link>` element within the `<head>` section of an HTML document.
+---
 
 ### 8. HTML Lists
 
-#### Ordered List (`<ol>`)
+Explored different list types available in HTML.
 
-Displays items in a sequentially numbered format.
+- Ordered Lists (`<ol>`)
+- Unordered Lists (`<ul>`)
+- Description Lists (`<dl>`)
 
-#### Unordered List (`<ul>`)
-
-Displays items using bullet points.
-
-#### Description List (`<dl>`)
-
-Used for presenting terms along with their corresponding descriptions.
-
-Lists help organize information in a structured and user-friendly manner.
+---
 
 ### 9. HTML Tables
 
-Studied the creation of tables for organizing and presenting structured data.
+Studied the creation of tables for representing structured information using:
 
-**Key Elements:**
+- `<table>`
+- `<tr>`
+- `<th>`
+- `<td>`
 
-* `<table>`
-* `<tr>`
-* `<th>`
-* `<td>`
+---
 
-Tables provide an effective way to display information in rows and columns, improving data readability and organization.
+## Practical Implementation
+
+The following implementation files were created to reinforce the concepts covered during the session.
+
+| Topic | File |
+|--------|------|
+| HTML Boilerplate | `html_boilerplate.html` |
+| Heading Elements | `headings.html` |
+| Semantic & Non-Semantic Tags | `semantic_nonsemantic.html` |
+| Inline & Block Elements | `inline_block.html` |
+| Subscript & Superscript | `subscript_superscript.html` |
+| Multimedia Elements | `multimedia.html` |
+| IFrame & Favicon | `iframe_favicon.html` |
+| HTML Lists | `lists.html` |
+| HTML Tables | `tables.html` |
+
+---
+
+## Learning Outcomes
+
+- Developed an understanding of the structure of an HTML document.
+- Learned the purpose and implementation of commonly used HTML elements.
+- Distinguished between semantic and non-semantic tags.
+- Understood the behavior of block-level and inline elements.
+- Gained practical experience in embedding multimedia content.
+- Learned to organize information using lists and tables.
+
+---
 
 ## Conclusion
 
-The session provided a comprehensive introduction to HTML and its fundamental components. Concepts such as document structure, semantic markup, content organization, multimedia integration, lists, and tables were explored through both theoretical discussion and practical implementation. These concepts form the foundation for modern web development and will serve as the basis for future topics in the MERN Stack training program.
+Day 01 established a strong foundation in HTML by introducing the fundamental concepts required for developing structured web pages. Each topic was reinforced through practical implementation, providing both theoretical understanding and hands-on experience. These concepts will serve as the basis for future topics in front-end web development, including CSS, JavaScript, and the MERN Stack ecosystem.
