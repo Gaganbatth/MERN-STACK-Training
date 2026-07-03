@@ -90,23 +90,6 @@ The display values discussed include:
 
 The behavior of each display type was demonstrated to understand how elements are positioned and rendered within the document flow.
 
-## Practical Assignments
-
-The following practical exercises were completed during the session:
-
-- Implemented all three types of CSS.
-- Practiced different CSS selectors.
-- Applied typography properties to format webpage content.
-- Designed layouts using the CSS Box Model.
-- Demonstrated the behavior of different display properties.
-
-## Learning Outcomes
-
-- Developed a strong understanding of the role of CSS in web development.
-- Learned multiple methods of applying styles to HTML documents.
-- Gained practical experience with selectors and typography properties.
-- Understood the CSS Box Model and its significance in webpage layout.
-- Explored various display properties used to control element rendering.
 
 ## Conclusion
 
