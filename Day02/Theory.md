@@ -71,16 +71,7 @@ Used the `<textarea>` element to collect multi-line user input, such as feedback
 
 Implemented different types of buttons including Submit and Reset buttons to perform form-related actions.
 
-## Practical Assignment
 
-As part of the practical session, two different HTML forms were designed to reinforce the concepts covered during the training. The objective was to apply the learned concepts by incorporating multiple input controls, labels, dropdowns, radio buttons, checkboxes, and action buttons into real-world form layouts.
-
-## Learning Outcomes
-
-* Developed a clear understanding of HTML forms and their significance in web development.
-* Learned to design interactive forms using various input controls.
-* Gained practical experience in applying form elements and attributes effectively.
-* Improved understanding of user input handling and form organization.
 
 ## Conclusion
 
