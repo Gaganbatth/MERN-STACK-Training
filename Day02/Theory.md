@@ -41,7 +41,6 @@ Explored different input types used to capture various kinds of user information
 * `checkbox`
 * `file`
 * `submit`
-* `reset`
 
 Each input type is designed for a specific purpose, improving both usability and data validation.
 
@@ -54,12 +53,6 @@ Studied commonly used attributes that enhance the functionality and usability of
 * `name`
 * `id`
 * `placeholder`
-* `required`
-* `readonly`
-* `disabled`
-* `maxlength`
-* `min`
-* `max`
 
 These attributes help in identifying form controls, validating user input, and improving the overall user experience.
 
