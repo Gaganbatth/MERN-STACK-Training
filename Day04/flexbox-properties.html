@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <head>
+    <style>
+      .container {
+        display: flex;
+        width: 100%;
+        max-width: 900px;
+        min-height: 300px;
+        border: 3px solid black;
+        align-items: center;
+        gap: 10px;
+        margin: auto;
+      }
+
+      .box {
+        color: white;
+        font-size: 18px;
+        text-align: center;
+        padding: 20px;
+      }
+
+      .box1 {
+        background: red;
+        flex-grow: 2;
+        flex-basis: 100px;
+      }
+
+      .box2 {
+        background: blue;
+        flex-basis: 200px;
+      }
+
+      .box3 {
+        background: green;
+        flex-basis: 100px;
+        align-self: flex-start;
+      }
+
+      .box4 {
+        background: orange;
+        flex-basis: 100px;
+        order: -1;
+      }
+
+      .box5 {
+        background: purple;
+        flex-basis: 250px;
+        flex-shrink: 3;
+      }
+
+      @media (max-width: 768px) {
+        .container {
+          flex-direction: column;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Flexbox Item Properties Demo</h2>
+
+    <div class="container">
+      <div class="box box1">
+        Box 1<br />
+        flex-grow: 2
+      </div>
+
+      <div class="box box2">
+        Box 2<br />
+        flex-basis: 200px
+      </div>
+
+      <div class="box box3">
+        Box 3<br />
+        align-self: flex-start
+      </div>
+
+      <div class="box box4">
+        Box 4<br />
+        order: -1
+      </div>
+
+      <div class="box box5">
+        Box 5<br />
+        flex-shrink: 3
+      </div>
+    </div>
+  </body>
+</html>
