@@ -123,7 +123,6 @@ The following implementation files were created to reinforce the concepts covere
 
 | Topic | File |
 |--------|------|
-| HTML Boilerplate | `html_boilerplate.html` |
 | Heading Elements | `headings.html` |
 | Semantic & Non-Semantic Tags | `semantic_nonsemantic.html` |
 | Inline & Block Elements | `inline_block.html` |
