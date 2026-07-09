@@ -123,13 +123,12 @@ The following implementation files were created to reinforce the concepts covere
 
 | Topic | File |
 |--------|------|
-| HTML Boilerplate | `html_boilerplate.html` |
 | Heading Elements | `headings.html` |
-| Semantic & Non-Semantic Tags | `semantic_nonsemantic.html` |
-| Inline & Block Elements | `inline_block.html` |
-| Subscript & Superscript | `subscript_superscript.html` |
+| Semantic & Non-Semantic Tags | `semantic-nonsemantic.html` |
+| Inline & Block Elements | `inline-block.html` |
+| Subscript & Superscript | `subscript-superscript.html` |
 | Multimedia Elements | `multimedia.html` |
-| IFrame & Favicon | `iframe_favicon.html` |
+| IFrame & Favicon | `iframe-favicon.html` |
 | HTML Lists | `lists.html` |
 | HTML Tables | `tables.html` |
 
