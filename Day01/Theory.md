@@ -134,6 +134,12 @@ The following implementation files were created to reinforce the concepts covere
 
 ---
 
+## Task Assigned
+
+The task assigned for the day was to implement the HTML concepts covered during the session by creating separate demonstration files for each topic. The objective was to gain practical experience in using various HTML elements and understanding their behavior through hands-on implementation.
+
+---
+
 ## Learning Outcomes
 
 - Developed an understanding of the structure of an HTML document.
