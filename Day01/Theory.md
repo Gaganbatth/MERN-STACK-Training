@@ -117,6 +117,20 @@ Studied the creation of tables for representing structured information using:
 
 ---
 
+## Task Assigned
+The instructor assigned the task of creating practice web pages using different HTML elements. The objective was to understand how various HTML tags contribute to the structure, formatting, and presentation of a webpage.
+
+---
+
+## Work Done
+- Created multiple HTML files to practice different HTML tags.
+- Implemented headings, paragraphs, and text formatting elements.
+- Added ordered and unordered lists.
+- Created hyperlinks using anchor tags.
+- Embedded images, favicons, audio, video, and iframes.
+- Designed a basic webpage using semantic HTML elements.
+- Executed and tested all files successfully in Visual Studio Code and a web browser.
+---
 ## Practical Implementation
 
 The following implementation files were created to reinforce the concepts covered during the session.
