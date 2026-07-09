@@ -89,6 +89,9 @@ To reinforce the concepts covered during the session, practical HTML forms were 
 | HTML Form | `form.html` |
 | HTML Form - 1 | `form1.html` |
 
+Task Assigned
+
+The task assigned for the day was to design two different HTML forms based on the layouts provided by the instructor. The objective was to understand how various form elements work together to collect user information and create well-structured input interfaces.
 ## Conclusion
 
 The session provided a comprehensive introduction to HTML forms and their implementation. Concepts such as form structure, input controls, attributes, labels, dropdown lists, text areas, and buttons were explored through both theoretical discussion and practical implementation. These concepts form the foundation for creating interactive web pages capable of collecting and processing user input efficiently.
