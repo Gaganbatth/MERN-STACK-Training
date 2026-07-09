@@ -3,6 +3,7 @@
 ## Overview
 
 The second day of the MERN Stack training focused on understanding HTML Forms, one of the most essential components of web development. HTML forms are used to collect user input and enable interaction between users and web applications. Various form elements, input controls, and attributes were explored to understand how data is entered, organized, and submitted through a webpage.
+---
 
 ## Topics Covered
 
@@ -79,7 +80,7 @@ Implemented different types of buttons used within HTML forms.
 * Normal Button
 
 These buttons are used to submit form data, reset entered values, or perform custom actions.
-
+---
 ## Practical Implementation
 
 To reinforce the concepts covered during the session, practical HTML forms were designed and implemented.
@@ -88,10 +89,11 @@ To reinforce the concepts covered during the session, practical HTML forms were 
 |----------------|------|
 | HTML Form | `form.html` |
 | HTML Form - 1 | `form1.html` |
-
+---
 ## Task Assigned
 
 The task assigned for the day was to design two different HTML forms based on the layouts provided by the instructor. The objective was to understand how various form elements work together to collect user information and create well-structured input interfaces.
+---
 ## Conclusion
 
 The session provided a comprehensive introduction to HTML forms and their implementation. Concepts such as form structure, input controls, attributes, labels, dropdown lists, text areas, and buttons were explored through both theoretical discussion and practical implementation. These concepts form the foundation for creating interactive web pages capable of collecting and processing user input efficiently.
