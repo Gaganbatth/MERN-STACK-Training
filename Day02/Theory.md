@@ -89,7 +89,7 @@ To reinforce the concepts covered during the session, practical HTML forms were 
 | HTML Form | `form.html` |
 | HTML Form - 1 | `form1.html` |
 
-Task Assigned
+## Task Assigned
 
 The task assigned for the day was to design two different HTML forms based on the layouts provided by the instructor. The objective was to understand how various form elements work together to collect user information and create well-structured input interfaces.
 ## Conclusion
