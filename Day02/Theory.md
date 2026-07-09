@@ -101,12 +101,8 @@ The following implementation files were created to reinforce the concepts covere
 
 | Topic | File |
 |--------|------|
-| Basic HTML Form | `basic-form.html` |
-| Input Types | `input-types.html` |
-| Form Attributes | `form-attributes.html` |
-| Dropdown & Textarea | `dropdown-textarea.html` |
-| Student Registration Form | `registration-form.html` |
-| Feedback Form | `feedback-form.html` |
+| Basic HTML Form | `form.html` |
+| HTML Form | `form1.html` |
 
 ---
 ## Task Assigned
