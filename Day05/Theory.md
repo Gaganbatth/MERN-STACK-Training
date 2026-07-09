@@ -96,6 +96,20 @@ Examples include:
 
 ---
 
+## Task Assigned
+No formal assignment was provided. I practiced the concepts independently by creating demonstration programs.
+
+---
+
+## Work Done
+- Created animation examples using `@keyframes`.
+- Applied transition effects to webpage elements.
+- Practiced transform functions including translate, rotate, scale, and skew.
+- Tested all programs successfully in Visual Studio Code and a web browser.
+
+---
+
+
 ## Practical Implementation
 
 To reinforce the concepts covered during the session, practical implementations were developed demonstrating CSS Transitions, Transforms, and Animations.
