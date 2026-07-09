@@ -1,99 +1,39 @@
-# Day 02 - HTML Forms
+# Day 02 – HTML Tables and Forms
+**Date:** 24 June 2026
 
-## Overview
-
-The second day of the MERN Stack training focused on understanding HTML Forms, one of the most essential components of web development. HTML forms are used to collect user input and enable interaction between users and web applications. Various form elements, input controls, and attributes were explored to understand how data is entered, organized, and submitted through a webpage.
----
+## Objective
+The objective of today's session was to understand how HTML tables and forms are used to organize data and collect user input in web applications.
 
 ## Topics Covered
+- HTML table structure
+- Table rows, headers, and data cells (`tr`, `th`, `td`)
+- Table borders and formatting
+- `rowspan` and `colspan`
+- HTML forms
+- Input fields
+- Labels and placeholders
+- Radio buttons and checkboxes
+- Drop-down lists
+- Text areas
+- Submit and reset buttons
+- Organizing form elements
 
-### 1. Introduction to HTML Forms
-
-Studied the purpose and significance of HTML forms in web development. The `<form>` element serves as a container for various input controls used to collect user information.
-
-### 2. Form Structure
-
-Learned the basic structure of an HTML form and the role of commonly used form elements.
-
-**Key Elements:**
-
-* `<form>`
-* `<label>`
-* `<input>`
-* `<textarea>`
-* `<select>`
-* `<option>`
-* `<button>`
-
-These elements work together to create interactive forms for collecting user data.
-
-### 3. Input Types
-
-Explored different input types used to capture various kinds of user information.
-
-**Examples:**
-
-* `text`
-* `password`
-* `email`
-* `number`
-* `date`
-* `radio`
-* `checkbox`
-* `file`
-* `submit`
-
-Each input type is designed for a specific purpose, improving both usability and data validation.
-
-### 4. Form Attributes
-
-Studied commonly used attributes that enhance the functionality and usability of form elements.
-
-**Key Attributes:**
-
-* `name`
-* `id`
-* `placeholder`
-
-These attributes help in identifying form controls, validating user input, and improving the overall user experience.
-
-### 5. Labels
-
-Learned the importance of the `<label>` element in providing meaningful descriptions for form controls and improving accessibility by associating labels with their respective input fields.
-
-### 6. Dropdown Lists
-
-Studied the implementation of dropdown menus using the `<select>` and `<option>` elements, allowing users to choose from predefined options.
-
-### 7. Text Area
-
-Learned the use of the `<textarea>` element for collecting multi-line user input, such as comments, suggestions, or feedback.
-
-### 8. Buttons
-
-Implemented different types of buttons used within HTML forms.
-
-**Common Button Types:**
-
-* Submit Button
-* Reset Button
-* Normal Button
-
-These buttons are used to submit form data, reset entered values, or perform custom actions.
----
-## Practical Implementation
-
-To reinforce the concepts covered during the session, practical HTML forms were designed and implemented.
-
-| Implementation | File |
-|----------------|------|
-| HTML Form | `form.html` |
-| HTML Form - 1 | `form1.html` |
----
 ## Task Assigned
+The instructor assigned the task of recreating sample tables and forms using HTML. The goal was to understand how different elements work together to create structured layouts and user-friendly forms.
 
-The task assigned for the day was to design two different HTML forms based on the layouts provided by the instructor. The objective was to understand how various form elements work together to collect user information and create well-structured input interfaces.
----
+## Work Done
+- Created different table layouts using rows, columns, and headers.
+- Practiced merging cells with `rowspan` and `colspan`.
+- Developed registration and information forms using different input controls.
+- Recreated form layouts based on the reference designs provided during the session.
+- Tested all programs successfully in Visual Studio Code and a web browser.
+
+## Learning Outcomes
+- Learned how to create structured tables.
+- Understood different HTML form controls.
+- Gained practical experience in designing forms for user input.
+
 ## Conclusion
+Today's session enhanced my understanding of HTML by introducing tables and forms, which are essential components of interactive websites.
 
-The session provided a comprehensive introduction to HTML forms and their implementation. Concepts such as form structure, input controls, attributes, labels, dropdown lists, text areas, and buttons were explored through both theoretical discussion and practical implementation. These concepts form the foundation for creating interactive web pages capable of collecting and processing user input efficiently.
+---
