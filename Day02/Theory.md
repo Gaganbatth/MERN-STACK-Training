@@ -106,13 +106,10 @@ The following implementation files were created to reinforce the concepts covere
 
 ---
 ## Task Assigned
-The instructor assigned the task of recreating sample tables and forms using HTML. The goal was to understand how different elements work together to create structured layouts and user-friendly forms.
+The instructor assigned the task of recreating sample forms using HTML. The goal was to understand how different elements work together to create structured layouts and user-friendly forms.
 
 ---
 ## Work Done
-- Created different table layouts using rows, columns, and headers.
-- Practiced merging cells with `rowspan` and `colspan`.
-- Developed registration and information forms using different input controls.
 - Recreated form layouts based on the reference designs provided during the session.
 - Tested all programs successfully in Visual Studio Code and a web browser.
 
