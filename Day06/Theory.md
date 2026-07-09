@@ -79,6 +79,20 @@ This demonstrated how Grid can efficiently organize webpage components into a st
 
 ---
 
+## Task Assigned
+The instructor assigned the task of recreating a reference layout using CSS Grid while maintaining the given structure and spacing.
+
+---
+
+## Work Done
+- Created the reference layout using CSS Grid.
+- Defined rows and columns using Grid properties.
+- Positioned grid items accurately.
+- Maintained proper spacing using row and column gaps.
+- Successfully tested the layout in Visual Studio Code and a web browser.
+
+---
+
 ## Practical Implementation
 
 To reinforce the concepts covered during the session, a complete webpage layout was designed using CSS Grid.
