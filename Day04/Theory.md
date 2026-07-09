@@ -81,6 +81,19 @@ Combined Flexbox and Media Queries to create responsive layouts that automatical
 For example, a horizontal layout on desktop screens can be converted into a vertical layout on smaller mobile screens using media queries.
 
 ---
+## Task Assigned
+The instructor provided a reference webpage layout and assigned the task of recreating it using CSS Flexbox. The layout also had to be made responsive using Media Queries.
+
+---
+
+## Work Done
+- Recreated the given webpage layout using Flexbox.
+- Arranged elements using different Flexbox properties.
+- Implemented Media Queries for smaller screen sizes.
+- Tested the responsive layout by resizing the browser window.
+- Verified the output successfully in Visual Studio Code.
+
+---
 
 ## Practical Implementation
 
