@@ -1,41 +1,41 @@
-// let array1 = [1, 2, 3, 4];
-// let array2 = [6, 7, [8, 9]];
-// array1.push(5);
-// console.log(array1);
+let array1 = [1, 2, 3, 4];
+let array2 = [6, 7, [8, 9]];
+array1.push(5);
+console.log(array1);
 
-// array1.pop();
-// console.log(array1);
+array1.pop();
+console.log(array1);
 
-// array1.shift();
-// console.log(array1);
+array1.shift();
+console.log(array1);
 
-// array1.unshift(0);
-// console.log(array1);
+array1.unshift(0);
+console.log(array1);
 
-// array1.splice(1, 2);
-// console.log(array1);
+array1.splice(1, 2);
+console.log(array1);
 
-// array1.sort();
-// console.log(array1);
+array1.sort();
+console.log(array1);
 
-// array1.reverse();
-// console.log(array1);
+array1.reverse();
+console.log(array1);
 
-// array1.fill(0);
-// console.log(array1);
+array1.fill(0);
+console.log(array1);
 
-// array1.splice(1, 3);
-// console.log(array1);
+array1.splice(1, 3);
+console.log(array1);
 
-// console.log(array1.concat(array2));
+console.log(array1.concat(array2));
 
-// console.log(array2.flat());
+console.log(array2.flat());
 
-// console.log(array1.includes(5));
+console.log(array1.includes(5));
 
-// console.log(array2.indexOf(7));
+console.log(array2.indexOf(7));
 
-// console.log(array2.join("-"));
+console.log(array2.join("-"));
 
 let array1 = [1, 2, 3, 4, 5, 6];
 let array2 = [10, 20, 30, 40, 50, 60, 70];
