@@ -1,0 +1,22 @@
+let str = "I am learning Javascript";
+let str1 = "Hello World Hello everyone";
+let str2 = "     Hello    ";
+let str3 = "Hello";
+
+console.log(str.length);
+console.log(str.charAt(5));
+console.log(str.indexOf("J"));
+console.log(str.includes("Java"));
+console.log(str.slice(0, 7));
+console.log(str.substring(0, 9));
+console.log(str.replace("learning", "practising"));
+console.log(str1.replaceAll("Hello", "Hey"));
+console.log(str1.split(","));
+console.log(str2.trim());
+console.log(str2.toUpperCase());
+console.log(str1.toLowerCase());
+console.log(str1.startsWith("Hello"));
+console.log(str1.endsWith("everyone"));
+console.log(str2.repeat(3));
+console.log(str3.padStart(2, "#"));
+console.log(str3.padEnd(4, "*"));
