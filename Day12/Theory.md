@@ -139,7 +139,6 @@ No specific programming task was assigned during the session. Instead, the instr
 - Gained practical experience with commonly used object methods.
 - Understood the functionality of the built-in `Math` object.
 - Learned the difference between shallow and deep object cloning.
-- Practiced object destructuring to simplify code.
 - Understood the purpose and usage of `for...in` and `for...of` loops for data iteration.
 
 ---
