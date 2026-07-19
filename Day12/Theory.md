@@ -15,7 +15,7 @@ Studied JavaScript objects as collections of key-value pairs used to represent r
 **Example:**
 
 ```javascript
-const student = {
+let student = {
     name: "John",
     age: 20,
     course: "B.Tech"
