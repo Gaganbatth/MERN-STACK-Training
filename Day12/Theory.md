@@ -2,7 +2,7 @@
 
 ## Overview
 
-The twelfth day of the MERN Stack training focused on JavaScript Objects and related concepts used for organizing, managing, and manipulating data efficiently. The session covered object creation, built-in object methods, the Math object, object cloning techniques, object destructuring, and iteration using `for...in` and `for...of` loops. These concepts are essential for developing scalable and maintainable JavaScript applications.
+The twelfth day of the MERN Stack training focused on JavaScript Objects and related concepts used for organizing, managing, and manipulating data efficiently. The session covered object creation, built-in object methods, the Math object, object cloning techniques and iteration using `for...in` and `for...of` loops. These concepts are essential for developing scalable and maintainable JavaScript applications.
 
 ---
 
@@ -87,24 +87,9 @@ Also understood the difference between copying an object reference and creating 
 
 ---
 
-### 6. Object Destructuring
 
-Studied Object Destructuring, an ES6 feature that allows object properties to be extracted into individual variables using concise syntax.
 
-**Example:**
-
-```javascript
-const student = {
-    name: "John",
-    age: 20
-};
-
-const { name, age } = student;
-```
-
----
-
-### 7. Iteration using `for...in` and `for...of`
+### 6. Iteration using `for...in` and `for...of`
 
 Learned different looping constructs used for iterating over objects and iterable data structures.
 
@@ -130,7 +115,6 @@ No specific programming task was assigned during the session. Instead, the instr
 - Implemented commonly used object methods.
 - Performed mathematical operations using the `Math` object.
 - Practiced shallow and deep object cloning techniques.
-- Implemented object destructuring examples.
 - Used `for...in` and `for...of` loops to iterate through objects and iterable data.
 - Successfully executed and tested all implementations using Visual Studio Code and Node.js.
 
@@ -144,7 +128,6 @@ No specific programming task was assigned during the session. Instead, the instr
 | Object Methods | `object-methods.js` |
 | Math Object | `math-object.js` |
 | Object Cloning | `object-cloning.js` |
-| Object Destructuring | `object-destructuring.js` |
 | for...in & for...of Loops | `loops.js` |
 
 ---
