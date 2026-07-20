@@ -96,7 +96,6 @@ No specific programming task was assigned during the session. Instead, the instr
 | DOM Attributes | `dom-attributes.js` |
 | DOM Styling | `dom-styling.js` |
 
-> **Note:** A common `index.html` file was used to execute and test all the JavaScript implementation files.
 
 ---
 
