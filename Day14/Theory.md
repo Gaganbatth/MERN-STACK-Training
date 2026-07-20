@@ -88,8 +88,6 @@ No specific programming task was assigned during the session. Instead, the instr
 | Replacing Elements | `replace-elements.js` |
 | DOM Traversing | `dom-traversing.js` |
 
-> **Note:** A common `index.html` file was used to execute and test all the JavaScript implementation files.
-
 ---
 
 ## Learning Outcomes
